@@ -70,7 +70,8 @@ I'm an embedded systems developer passionate about low-level programming, microc
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezainallo/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AlirezaInallo)
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=wordpress&logoColor=white)](http://alirezainallo.ir/)
-
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Alirezainallo)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alirezainallo/)
 ---
 
 💡 _"Passionate about embedded systems, AI, and building the future with technology!"_ 🚀
