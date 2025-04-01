@@ -18,16 +18,16 @@ I'm an embedded systems developer passionate about low-level programming, microc
 
 ### 📌 Featured Projects:
 
-- 🔥 **[Project 1 Name](https://github.com/yourusername/project1)** - A brief description of your project.
-- 🚀 **[Project 2 Name](https://github.com/yourusername/project2)** - Another amazing project of yours.
-- 🎯 **[Project 3 Name](https://github.com/yourusername/project3)** - A cool embedded systems or AI-related project.
+- 🔥 **[Project 1 Name](https://github.com/alirezainallo/project1)** - A brief description of your project.
+- 🚀 **[Project 2 Name](https://github.com/alirezainallo/project2)** - Another amazing project of yours.
+- 🎯 **[Project 3 Name](https://github.com/alirezainallo/project3)** - A cool embedded systems or AI-related project.
 
 ---
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezainallo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezainallo&layout=compact&theme=radical)
 
 ---
 
