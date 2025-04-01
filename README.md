@@ -60,7 +60,8 @@ I'm an embedded systems developer passionate about low-level programming, microc
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezainallo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirezainallo&show_icons=true&theme=radical)<br/>
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Alirezainallo&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezainallo&layout=compact&theme=radical)
 
 ---
