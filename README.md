@@ -1,6 +1,6 @@
 ### Hi there, I'm Alireza Inallo! 👋
 
-🚀 **Embedded Systems Engineer | AI & Machine Learning Enthusiast | Android Developer**
+🚀 **Embedded Systems Engineer | AI & Machine Learning Enthusiast**
 
 I'm an embedded systems developer passionate about low-level programming, microcontrollers, and integrating cutting-edge technologies. I specialize in STM32, ESP32, and ARM Cortex-M development using C/C++. I also explore AI applications in embedded devices and financial market prediction. Currently, I'm diving into Android development with Kotlin!
 
