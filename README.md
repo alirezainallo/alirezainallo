@@ -18,7 +18,7 @@ I'm an embedded systems developer passionate about low-level programming, microc
 
 ### 📌 Featured Projects:
 
-- 🔥 **[Project 1 Name](https://github.com/alirezainallo/project1)** - A brief description of your project.
+- 🔥 **[Marlin](https://github.com/alirezainallo/https://github.com/alirezainallo/Marlin)** - a framework for my first 3D printer that designed for my Bachelor's Project 
 - 🚀 **[Project 2 Name](https://github.com/alirezainallo/project2)** - Another amazing project of yours.
 - 🎯 **[Project 3 Name](https://github.com/alirezainallo/project3)** - A cool embedded systems or AI-related project.
 
