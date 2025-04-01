@@ -53,8 +53,8 @@ I'm an embedded systems developer passionate about low-level programming, microc
 ### 📌 Featured Projects:
 
 - 🔥 **[Marlin](https://github.com/alirezainallo/https://github.com/alirezainallo/Marlin)** - a framework for my first 3D printer that designed for my Bachelor's Project 
-- 🚀 **[Project 2 Name](https://github.com/alirezainallo/project2)** - Another amazing project of yours.
-- 🎯 **[Project 3 Name](https://github.com/alirezainallo/project3)** - A cool embedded systems or AI-related project.
+- 🚀 **[3d-Printer-Parts](https://github.com/alirezainallo/3d-Printer-Parts)** - my 3D printer parts that i designed with solidworks
+- 🎯 **[wavLibCpp](https://github.com/alirezainallo/wavLibCpp)** - A wav read/write lib with cpp language
 
 ---
 
